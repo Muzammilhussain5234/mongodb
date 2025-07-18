@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "687a776f57f0dcdc81d806e5"
+  },
+  "name": "Spider",
+  "crickter": "kagiso RAbada"
+},
+{
+  "_id": {
+    "$oid": "687a79e5b5a4f1d75fb91518"
+  },
+  "name": "javascript learn by spidey"
+}]
