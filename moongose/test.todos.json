@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "687fb5eecedd0ea832660ee5"
+  },
+  "title": "Sample Todo",
+  "author": "Author Name",
+  "body": "This is a sample todo item.",
+  "comments": [],
+  "date": {
+    "$date": "2025-07-22T16:01:50.786Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687fbbd1966248cb233e8da6"
+  },
+  "title": "Sample Todo",
+  "author": "Author Name",
+  "body": "This is a sample todo item.",
+  "comments": [],
+  "date": {
+    "$date": "2025-07-22T16:26:57.715Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "687fbc35f22b31a28a064bc9"
+  },
+  "title": "Sample Todo",
+  "author": "Author Name",
+  "body": "This is a sample todo item.",
+  "hidden": false,
+  "comments": [],
+  "date": {
+    "$date": "2025-07-22T16:28:37.377Z"
+  },
+  "__v": 0
+}]
